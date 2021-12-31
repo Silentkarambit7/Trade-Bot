@@ -1,5 +1,5 @@
 const { Client , Intents } = require('discord.js');
-require('dotenv').config();
+
 clientID = ''
 
 
